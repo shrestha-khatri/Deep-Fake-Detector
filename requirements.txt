@@ -1,0 +1,9 @@
+opencv-python
+numpy
+torch
+torchvision
+facenet-pytorch
+scikit-learn
+qdrant-client
+streamlit
+Pillow
